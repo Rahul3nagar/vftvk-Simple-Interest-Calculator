@@ -2,16 +2,17 @@ body {background-color:black; font-family:arial; color:white}
 h1{color:grey;font-family:verdana}
 
 .maindiv{
- padding: 20px;
     background-color:white;
     color:black;
-  width: 300px;
+  width: 500px;
+	padding: 20px;
   border-radius: 25px;
   border: solid black;
   position: absolute;
-/* top: 50%;
-left: 50%; */
+	top: 25%;
+	left: 30%; 
 }
+
 .highlight{
     background-color: #FFFF00;
 }
