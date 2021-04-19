@@ -2,12 +2,18 @@ body {background-color:block; font-family:arial; color:white}
 h1{color:grey;font-family:verdana}
 
 .maindiv{
+  padding: 20px;
     background-color:white;
     color:black;
-    width:300px;
-    padding:20px;
-    border:25px;
-    alignment:center;
-    
+  width: 300px;
+  border-radius: 25px;
+  border: solid black;
+  
+   position: absolute;
+
 }
+.highlight{
+    background-color: #FFFF00;
+}
+
 
