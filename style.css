@@ -9,8 +9,8 @@ h1{color:grey;font-family:verdana}
   border-radius: 25px;
   border: solid black;
   position: absolute;
-top: 50%;
-left: 50%;
+/* top: 50%;
+left: 50%; */
 }
 .highlight{
     background-color: #FFFF00;
