@@ -20,6 +20,6 @@ function compute()
 // function to update changed value by range
 function updateRate(){
     var rateval = document.getElementById("rate").value;
-    document.getElementById("rate_val").innerHTML = rateval;
+    document.getElementById("rate_val").innerHTML = rateval+"%";
 }
         
