@@ -1,8 +1,8 @@
-body {background-color:block; font-family:arial; color:white}
+body {background-color:black; font-family:arial; color:white}
 h1{color:grey;font-family:verdana}
 
 .maindiv{
- padding: 20px;
+ padding: 20 px;
     background-color:white;
     color:black;
   width: 300px;
